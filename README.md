@@ -5,7 +5,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-da-silva-santos-1b4861264/)
 
 ![pedrohsilvah GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohsilvah&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsilvah)](https://github.com/pedrohsilvah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsilvah&layout=compact)](https://github.com/pedrohsilvah/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia 
 
