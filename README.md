@@ -8,9 +8,7 @@
 - 🎓 Cursando Sistemas de Informação.
 - 👨‍💻 Desenvolvedor Web.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsilvah&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+![luffy-gear-5](https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/572fc1f7-013f-4894-8cce-63a2a5f2e319)
 
 ## Minhas Skills
 
@@ -33,7 +31,9 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsilvah&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 *"Em terra de programador, o céu é o limite."* - Júlio Developer🚀👨‍💻
 
