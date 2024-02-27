@@ -1,8 +1,6 @@
-## Olá! Eu sou Pedro Henrique 🤓 
+# Seja bem vindo ao meu perfil!!👋
 
-### Seja bem vindo ao meu perfil!!👋
-
-## Sobre mim
+## 🏜️ Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando Sistemas de Informação.
@@ -10,7 +8,7 @@
 
 ![luffy-gear-5](https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/572fc1f7-013f-4894-8cce-63a2a5f2e319)
 
-## Minhas Skills
+## 💻 Minhas Skills
 
 **Front-end**
 
@@ -38,7 +36,7 @@
 
 *"Em terra de programador, o céu é o limite."* - Júlio Developer🚀👨‍💻
 
-## Onde me encontrar
+## 🌐 Onde me encontrar
 
 📧Email: pedrohsilvasant@gmail.com
 
