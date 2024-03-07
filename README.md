@@ -6,7 +6,7 @@
 - 🎓 Cursando Sistemas de Informação.
 - 👨‍💻 Desenvolvedor Web.
 
-![luffy-gear-5](https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/572fc1f7-013f-4894-8cce-63a2a5f2e319)
+![luffy](https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/6ae24a71-44a4-43b6-8513-0311a63dd745)
 
 ## 💻 Minhas Skills
 
