@@ -1,14 +1,14 @@
-# Seja bem vindo ao meu perfil!!👋
+                                                                      # Hello, i'm Pedro👋
 
-## 🏜️ Sobre mim
+## 🏜️ About me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Cursando Sistemas de Informação.
-- 👨‍💻 Desenvolvedor Web.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Information Systems.
+- 👨‍💻 Web Developer.
 
 ![luffy](https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/6ae24a71-44a4-43b6-8513-0311a63dd745)
 
-## 💻 Minhas Skills
+## 💻 My Skills
 
 **Front-end**
 
@@ -34,11 +34,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsilvah&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-*"Em terra de programador, o céu é o limite."* - Júlio Developer🚀👨‍💻
+*"In programmer land, the sky is the limit."* - Júlio Developer🚀👨‍💻
 
-## 🌐 Onde me encontrar
+## 🌐 Where to find me
 
-📧Email: pedrohsilvasant@gmail.com
+📧E-mail: pedrohsilvasant@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_h345/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohsilvah/)
