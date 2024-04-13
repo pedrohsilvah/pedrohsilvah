@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/6ae24a71-44a4-43b6-8513-0311a63dd745" width="280"  />
+<img align="right" src="https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/6ae24a71-44a4-43b6-8513-0311a63dd745" width="180" height="180em" />
 
 ### Hello, i'm Pedro👋
 
@@ -9,7 +9,9 @@
 - 👨‍💻 Web Developer.
 
 **💻 My Skills**
-
+<div>
+  <img height="180em" width="380" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsilvah&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 *Front-end*
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -29,10 +31,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsilvah&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 
 **🌐 Where to find me***
 
