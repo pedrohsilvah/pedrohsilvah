@@ -1,16 +1,16 @@
-# Hello, i'm Pedro👋
+<img align="right" src="https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/6ae24a71-44a4-43b6-8513-0311a63dd745" width="280"  />
 
-## 🏜️ About me
+### Hello, i'm Pedro👋
+
+**🏜️ About me**
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Information Systems.
 - 👨‍💻 Web Developer.
 
-![luffy](https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/6ae24a71-44a4-43b6-8513-0311a63dd745)
+**💻 My Skills**
 
-## 💻 My Skills
-
-**Front-end**
+*Front-end*
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -20,12 +20,12 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-**Back-end**
+*Back-end*
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**DevOps**
+*DevOps*
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -34,9 +34,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsilvah&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-*"In programmer land, the sky is the limit."* - Júlio Developer🚀👨‍💻
-
-## 🌐 Where to find me
+**🌐 Where to find me***
 
 📧E-mail: pedrohsilvasant@gmail.com
 
