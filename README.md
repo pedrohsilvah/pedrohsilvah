@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/pedrohsilvah/pedrohsilvah/assets/124065912/6ae24a71-44a4-43b6-8513-0311a63dd745" width="180" height="180em" />
-
 ### Hello, i'm Pedro👋
 
 **🏜️ About me**
