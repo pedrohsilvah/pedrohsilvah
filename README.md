@@ -33,7 +33,7 @@
 
 **🌐 Where to find me**
 
-📧E-mail: pedrohsilvasant@gmail.com
+📧E-mail: peedrohsilvasant@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_h345/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohsilvah/)
